@@ -6,7 +6,7 @@ pipeline {
     }
 stages { 
      
- stage('Preparation') { 
+ stage('checkout') { 
      steps {
 // for display purposes
 
